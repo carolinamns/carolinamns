@@ -1,4 +1,4 @@
-### Hi there 👋
-
-- 🌱 Aprendiz em Análise de Dados.
-- 📚 Graduanda em Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+- 👋 Olá, eu sou a **Carolina**.
+- 👀 Tenho interesse em **Análise de Dados** e **Ciência de Dados**.
+- 🌱 Atualmente estudando **SQL**.
+- 🎓 Graduanda em **Sistemas de Informação** pela PUC Minas.
