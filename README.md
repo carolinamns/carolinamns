@@ -1,4 +1,4 @@
 - 👋 Olá, eu sou a **Carolina**.
-- 👀 Tenho interesse em **Análise de Dados** e **Ciência de Dados**.
+- 👀 Tenho interesse em **Ciência de Dados**.
 - 🌱 Atualmente estudando **SQL**.
 - 🎓 Graduanda em **Sistemas de Informação** pela PUC Minas.
