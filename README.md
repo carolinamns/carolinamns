@@ -1,7 +1,8 @@
-- 👋 Olá, eu sou a **Carolina**.
-- 👀 Tenho interesse em **Análise de Dados e Ciência de Dados**.
-- 🌱 Atualmente estudando **SQL**.
-- 🎓 Graduanda em **Sistemas de Informação** pela PUC Minas.
+- 👋 Hello, I'm **Carolina**.
+- 👀 I'm interested in **Data Analysis** and **Data Science**.
+- 🌱 Currently studying **Python**.
+- 📚 Undergraduate student in **Information Systems** at PUC Minas.
+- 🎓 Journalist.
 
 ##
 
