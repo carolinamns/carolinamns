@@ -1,6 +1,6 @@
 - 👋 Hello, I'm **Carolina**.
 - 👀 I'm interested in **Data Analysis** and **Data Science**.
-- 🌱 Currently studying **Python**.
+- 🌱 Currently studying **SQL** and **Python**.
 - 📚 Undergraduate student in **Information Systems** at PUC Minas.
 - 🎓 Journalist.
 
