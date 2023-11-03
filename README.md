@@ -1,6 +1,6 @@
 - 👋 Hello, I'm **Carolina**.
-- 👀 I'm interested in **Data Analysis** and **Data Science**.
-- 🌱 Currently studying **SQL**.
+- 👀 I'm interested in **Analytics Engineering** and **Data Analysis**.
+- 🌱 Currently studying **dbt**.
 - 📚 Undergraduate student in **Information Systems**.
 
 ##
