@@ -1,7 +1,6 @@
-- 👋 Hello, I'm **Carolina**.
+- 👋 Hello, I'm **Carol**.
 - 👀 I'm interested in **Analytics Engineering** and **Data Analysis**.
-- 🌱 Currently studying **dbt**.
-- 📚 Undergraduate student in **Information Systems**.
+- 🎓 I have Bachelor’s degrees in **Information Systems** and **Journalism**.  
 
 ##
 
